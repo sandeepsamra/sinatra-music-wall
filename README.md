@@ -1,10 +1,4 @@
-Sinatra
+Music Wall
 =============
 
-Brought to you by Lighthouse Labs
-
-## Getting Started
-
-1. `bundle install`
-2. `shotgun -p 3000 -o 0.0.0.0`
-3. Visit `http://localhost:3000/` in your browser
+Music Wall was a Lighthouse Labs assignment designed to introduce us to Sinatra. It essentially just lets us log in as a user and create a wall of songs.
